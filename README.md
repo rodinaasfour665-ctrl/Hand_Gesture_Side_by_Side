@@ -1,4 +1,4 @@
-# Hand Gesture Real Video Control — Side-by-Side Interface
+# Hand Gesture Video Control — Side-by-Side Interface
 
 This version displays **the real playing video on the left** and **your live webcam image on the right** in one desktop window. Hand landmark lines and the recognized gesture are drawn on the camera image, while a highlighted action bar describes what happened to the video. VLC handles real playback and audio.
 
